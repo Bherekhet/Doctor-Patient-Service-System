@@ -2,7 +2,7 @@ Doctor Service System
 
 Group members include,
 Bereket Degefa -> Myself
-William Abernathy -> 
+William Abernathy -> @Igifoshifo
 Zach Bray -> 
 
 Setting up environment to run the system:
