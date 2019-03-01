@@ -1,0 +1,13 @@
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.PatientSelect.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.PatientInformation.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.MedicalRecordsForm.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.SetApptForm.resources

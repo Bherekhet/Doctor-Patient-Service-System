@@ -1,0 +1,396 @@
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.MedicalRecordsForm.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.PatientInformation.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.PatientSelect.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.SetApptForm.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.RecordAdd.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.RecordCreate.resources
+C:\Users\matth\source\repos\CSC340TeamProject\CSC340TeamProject\obj\Debug\CSC340TeamProject.RecordUpdate.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.MedicalRecordsForm.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.PatientInformation.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.PatientSelect.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.RecordAdd.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.RecordCreate.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.RecordUpdate.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.SetApptForm.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System2\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Will\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\zach\Desktop\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\Doctor Service System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\matth\Downloads\BEREKET DOWNLOAD WORKING FOR HIM\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Documents\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System (1)\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Downloads\Doctor_Service_System\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\matth\Desktop\School\CSC 340 Software Engineering\2. Group\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe.config
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\bin\Debug\CSC340TeamProject.pdb
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorCreateAddUpdateMedicalRecord.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorGrantorRjectRefillRequest.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorNotification.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor.DoctorRequestPatientRecordAccess.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Doctor_View.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.LoginWindow.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Patient_View.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.Properties.Resources.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.userControl1.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl2.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl3.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl4.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControl5.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD1.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.UserControlD2.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.GenerateResource.cache
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340DoctorSystem.csproj.CopyComplete
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.exe
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Group work\Doctor_Service_System\CSC340TeamProject\obj\Debug\CSC340TeamProject.pdb
